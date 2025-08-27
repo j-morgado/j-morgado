@@ -70,6 +70,6 @@ When I’m not in front of a screen, you can find me:
 
 ## 📫 Connect
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/morgadojoao)**  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/j-morgado)**  
 - 📧 **[Email](mailto:jmrmorgado@gmail.com)**  
 - 🌐 **[Website](https://jmorgado.com)**  
