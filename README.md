@@ -19,7 +19,6 @@ I build performant, user-centric tools and experiences where design meets engine
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-FF6F61?logo=webaudio&logoColor=white)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-000000?logo=html5&logoColor=white)
-![p5.js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socket.io&logoColor=white)
